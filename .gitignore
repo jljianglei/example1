@@ -1,0 +1,7 @@
+#notes
+t2.c
+build
+*.tmp
+test/
+build.sh
+!build.sh
