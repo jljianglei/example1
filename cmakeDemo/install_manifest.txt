@@ -1,0 +1,2 @@
+/home/jianglei/gitTest/example1/cmakeDemo/_CPack_Packages/Linux/TZ/Demo1-1.0.1-Linux/bin/Demo
+/home/jianglei/gitTest/example1/cmakeDemo/_CPack_Packages/Linux/TZ/Demo1-1.0.1-Linux/include/config.h

@@ -5,3 +5,8 @@ build
 test/
 build.sh
 !build.sh
+*.cmake
+CMakeFiles/
+_CPack_Packages/
+*.tar.*
+Demo1-1.0.1-Linux/
